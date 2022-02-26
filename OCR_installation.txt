@@ -1,0 +1,4 @@
+# Install tesseract
+Download that : https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20210506.exe
+Double click on it
+Set Installation location to a folder named tesseract in your sniper folder
